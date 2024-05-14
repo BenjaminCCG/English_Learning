@@ -1,4 +1,5 @@
 advantage n. 有利条件
+take advantage of 利用
 migration n. 迁移, 移居
 a flock of 一群
 burn vt. 燃烧；
@@ -9,6 +10,7 @@ sense n. 官能，感官；辨别，领悟，感觉；
 dejection n. 忧郁,沮丧
 familiar adj. 熟悉的
 realise vt. 实现 了解;认识到
+absence of 缺乏
 reproach n. 责备；耻辱
 bewilder vt. 使迷惑, 使难住
 arrest vt. 吸引；逮捕；阻止
